@@ -2,6 +2,23 @@
 
 
 ## Usage
+### Help
+```
+$ ./json2excel.js -h
+
+  Usage: json2excel [options]
+
+  Options:
+
+    -v, --version          output the version number
+    -j, --json <file>      JSON file input
+    -t, --template <file>  Template file
+    -o, --output <file>    Output file
+    -V, --verbose
+    -h, --help             output usage informatio
+```
+
+### Create Excel File
 ```
 $ ./json2excel.js -j test/files/t1/data.json  -t test/files/t1/template.json -o tmp/test.xlsx -V
 parse template
