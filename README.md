@@ -15,7 +15,7 @@ $ ./json2excel.js -h
     -t, --template <file>  Template file
     -o, --output <file>    Output file
     -V, --verbose
-    -h, --help             output usage informatio
+    -h, --help             output usage information
 ```
 
 ### Create Excel File
@@ -41,6 +41,9 @@ generate workbook
 write workbook
   file: tmp/test.xlsx
 ```
+
+![Result](./doc/result_excel.png)
+
 
 
 
