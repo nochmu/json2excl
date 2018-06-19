@@ -2,7 +2,7 @@
   "name": "json2excl",
   "version": "0.0.1",
   "description": "create excel files from json ",
-  "main": "json2excel.js",
+  "main": "json2excl.js",
   "scripts": {
     "test": "mocha"
   },

@@ -4,9 +4,9 @@
 ## Usage
 ### Help
 ```
-$ ./json2excel.js -h
+$ ./json2excl.js -h
 
-  Usage: json2excel [options]
+  Usage: json2excl [options]
 
   Options:
 
@@ -20,7 +20,7 @@ $ ./json2excel.js -h
 
 ### Create Excel File
 ```
-$ ./json2excel.js -j test/files/t1/data.json  -t test/files/t1/template.json -o tmp/test.xlsx -V
+$ ./json2excl.js -j test/files/t1/data.json  -t test/files/t1/template.json -o tmp/test.xlsx -V
 parse template
   file: test/files/t1/template.json
   content:
