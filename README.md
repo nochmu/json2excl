@@ -1,4 +1,4 @@
-# JSON2EXCEL
+# JSON2EXCL
 
 
 ## Usage
