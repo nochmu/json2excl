@@ -1,0 +1,14 @@
+{
+  "name": "json2excel",
+  "version": "0.0.1",
+  "description": "create excel files from json ",
+  "main": "json2excel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-populate": "^1.17.0"
+  }
+}
