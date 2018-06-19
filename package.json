@@ -1,5 +1,5 @@
 {
-  "name": "json2excel",
+  "name": "json2excl",
   "version": "0.0.1",
   "description": "create excel files from json ",
   "main": "json2excel.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nochmu/json2excel.git"
+    "url": "git+https://github.com/nochmu/json2excl.git"
 },
   "author": "",
   "license": "Apache-2.0",
