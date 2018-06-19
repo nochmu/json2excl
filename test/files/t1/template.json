@@ -1,0 +1,13 @@
+{
+  "columns" : [
+  {
+  	"id" : "A",
+		"style" : { "bold" : true }
+  },
+  {
+  	"id" : "B",
+  	"style" : { "fill" : "red" }
+
+  }
+  ]
+}
