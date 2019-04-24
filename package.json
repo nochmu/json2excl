@@ -17,6 +17,6 @@
     "commander": "^2.15.1",
     "indent-string": "^3.2.0",
     "mocha": "^5.2.0",
-    "xlsx-populate": "^1.17.0"
+    "xlsx-populate": "^1.19.1"
   }
 }
